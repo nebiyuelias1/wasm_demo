@@ -1,1 +1,1 @@
-# Web Assembley Demo
+# Web Assembly Demo
